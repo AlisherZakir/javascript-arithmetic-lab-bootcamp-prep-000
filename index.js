@@ -23,7 +23,7 @@ const dec = n => {
 }
 
 const makeInt = n => {
-  return paseInt(n);
+  return pasreInt(n);
 }
 
 const preserveDecimal = n => {
