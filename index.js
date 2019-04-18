@@ -15,11 +15,11 @@ const divide = (a,b) => {
 }
 
 const inc = n => {
-  return n++;
+  return n+1;
 }
 
 const dec = n => {
-  return n--;
+  return n-1;
 }
 
 const makeInt = n => {
