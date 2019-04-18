@@ -23,7 +23,7 @@ const dec = n => {
 }
 
 const makeInt = n => {
-  return parseInt(n);
+  return parseInt(n, 10);
 }
 
 const preserveDecimal = n => {
